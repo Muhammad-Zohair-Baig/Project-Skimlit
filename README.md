@@ -6,7 +6,7 @@
 
 <h2 align="center">Tools and Technologies</h2>
 
-<ul align="center">
+<ul>
   <li>Tensorflow</li>
   <li>tensorflow_hub</li>
   <li>sklearn</li>
@@ -23,7 +23,7 @@
 
 <h2 align="center">Models</h2>
 
-<ul align="center">
+<ul >
   <li>NaiveBiase Model: 72% Accuracy</li>
   <li>Conv1D Model: 78% Accuracy</li>
   <li>Model using Pretrained Token Embedding (Universal Sentence Embedding): 75% Accuracy</li>
