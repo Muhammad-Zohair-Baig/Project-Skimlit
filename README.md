@@ -29,5 +29,5 @@
   <li>Model using Pretrained Token Embedding (Universal Sentence Embedding): 75% Accuracy</li>
   <li>Conv1D Model using Character Level Embedding: 73% Accuracy</li>
   <li>Model with both Token and Character Level Embedding: 76% Accuracy</li>
-  <li>Model with Token, Character and Position Level Embedding (Reference: <a href="https://arxiv.org/pdf/1612.05251.pdf">https://arxiv.org/pdf/1612.05251.pdf</a>): 81% Accuracy</li>
+  <li>Model with Token, Character and Position Level Embedding 81% Accuracy</li>
 </ul>
